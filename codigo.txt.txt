@@ -13,13 +13,7 @@ Mais uma linha aqui
 Esse texto e para a nova branch work_1
 Um novo texto para a branch work_1
 
-
-
-
-
-
-
-
+asas
 
 Um novo texto de usuario diferente
 
