@@ -10,12 +10,5 @@ Aqui vai comecar o texto:
 Um texto vai vir aqui
 Veja so
 Mais uma linha aqui
-
-Esse texto e para a nova branch work_1.
-
+Esse texto e para a nova branch work_1
 Um novo texto para a branch work_1
-
-
-Inclusao de uma linha no master
-
-Outra inclusao de uma nova linha no master
