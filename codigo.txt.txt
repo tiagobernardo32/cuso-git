@@ -17,3 +17,5 @@ Um novo texto para a branch work_1
 
 
 Inclusao de uma linha no master
+
+Outra inclusao de uma nova linha no master
