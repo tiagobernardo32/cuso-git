@@ -26,3 +26,5 @@ Um novo texto de usuario diferente
 
 
 Estou inserindo um novo texto na branch local work_3 para ser comitado na branch remota
+
+AOoooooooo ANDERSONNNNNNNNNNN
